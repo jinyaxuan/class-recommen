@@ -1,2 +1,3 @@
-# class-recommen
-课程推荐系统---scala
+# 课程推荐系统---scala
+一套完整的推荐系统 by scala 
+数据集为内部数据库资料不方便提供
